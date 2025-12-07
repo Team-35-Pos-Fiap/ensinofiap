@@ -15,7 +15,7 @@ spring:
 #    password: Tms030586@
 
   datasource:
-    url: jdbc:sqlserver://sv-fiap-database.database.windows.net:1433;database=db-fiap-cursos;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://sv-fiap-database.database.windows.net:1433;database=fiap-database-cursos;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     username: fiap-database@sv-fiap-database
     password: rm@361303
 
